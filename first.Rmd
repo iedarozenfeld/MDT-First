@@ -3,8 +3,8 @@ title: "este é o meu notebook"
 output: html_document
 ---
 
-area de texto pode escrever o q quiser
-
+área de texto pode escrever o q quiser;;;
+alterar texto para novo commit...
 
 This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
 
