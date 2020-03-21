@@ -4,6 +4,7 @@ output: html_document
 ---
 
 area de texto pode escrever o q quiser
+tetetetetet
 
 This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
 
